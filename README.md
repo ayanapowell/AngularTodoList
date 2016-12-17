@@ -2,7 +2,7 @@
 
 #### _10-17-16_
 
-#### By _****_
+#### By _Ayana Powell_
 
 ## Description
 
@@ -35,4 +35,4 @@ jQuery_
 
 *This webpage is licensed under the MIT license.*
 
-Copyright (c) 2016 **_Aimen Khakwani_**
+Copyright (c) 2016 **_Ayana Powell_**
